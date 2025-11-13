@@ -1,13 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+/* General Styling */
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family:'Permanent Marker', 'cursive';
+  background-color:#FFDB58;
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.header {
+  font-family:'Permanent Marker', 'cursive' ;
+  font-size:50px;
+}
+
+#userInput {
+  padding: 50px;
+  border-radius: 10px;
+  border: 5px solid black;
+  font-size: xx-large;
+  text-align: center;
+  margin:10px;
+}
+
+.main {
+  display:block;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+.wrong-entry {
+  color: red;
+}
+
+.winner {
+  color: greenyellow;
+  font-weight: 900;
+  font-size: 70px;
+}
+
+.loser {
+  color: red;
+  font-weight: 900;
+  font-size: 70px;
+}
+
+/* WordDisplay Styling */
+
+.showWord {
+  color:cornflowerblue;
+  font-size:50px;
+  font-style: italic;
+
+}
+
+.display-word {
+  display:block;
+  border:5px solid black;
+  border-radius: 10px;
+  background-color: limegreen;
+  font-size:35px;
+  padding:1px;
+ justify-content: center;
+}
+
+.button {
+  border:3px solid black;
+  border-radius: 9px;
+  color:white;
+  background-color: darkgreen;
+  font-size:20px;
+  padding:6px 10px;
+  margin:10px;
+ 
+}
+
+
+/* Hangman image styling */
+.hangman-img {
+  width:400px;
+  height:auto;
+  border:13px black solid;
+  border-radius:8px;
+}
+
+.hangman-img-div{
+  background-color:#FFDB58;;
+  border:none;
+}
+
+
+/*Start page styling*/
+
+.start-page {
+  display:block;
+  margin: 0 auto 0 auto;
+  text-align: center;
+
+}
+
+.start-button {
+  font-size:50px;
+  padding:10px;
+  background-color: darkgreen;
+  color:white;
+  border:1.5px black solid;
+  border-radius: 10px;
+  margin:15px;
+}
+
+/* rules styling  */
+.list-word {
+  display:flex;
+  list-style: none;
+  justify-content: center;
+  font-size:60px;
+  font-weight:970;
+}
+ 
+.list-word li{
+  padding:10px;
+  
+}
+
+.rules {
+  font-size:30px;
+  list-style: none;
+
+}
+
+.rules ul{
+  list-style: none;
 }
