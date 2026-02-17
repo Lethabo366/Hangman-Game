@@ -1,6 +1,6 @@
 # Hangman-Game
 
-A hangman created for my react app capstone project
+A hangman game created for my react app capstone project
 
 ## RULES
 
