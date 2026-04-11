@@ -23,18 +23,18 @@ npm install
 ### 3. Start Development Server
 npm start
 
-##Tech Stack
+## Tech Stack
 
--React
--JavaScript 
--HTML
--CSS
--Node.js / npm
+- React
+- JavaScript 
+- HTML
+- CSS
+- Node.js / npm
 
-##Future Improvements
+## Future Improvements
 
--Improve UI/UX
--Add
+- Improve UI/UX
+- Add Sound Effects
 
  
 
