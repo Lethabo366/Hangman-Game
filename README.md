@@ -1,37 +1,40 @@
 # Hangman-Game
 
-A hangman game created for my react app capstone project
+A Hangman game built with React as part of a full-stack web development capstone project.
 
-## RULES
-
-- The goal of this game is to guess the word a character at a time.
-
-- You have 10 chances to type in the correct character with
-  each wrong answer a part of the hangman is shown.
-
-- if you cant guess the correct word before the hangman is shown you lose.
-
-- if you guess the correct word before the hangman is shown you win.
-
-- You can use 2 hints per game.
+## Features
+- Guess the word one letter at a time
+- 10 attempts before losing
+- Visual hangman progression
+- 2 hints per game
+- Win/Loss detection
 
 ## Installation
 
-### Step One 
- use git clone with a link to the repositry
+### 1. Clone Repository
+ Use git clone with a link to the repository
+git clone https://github.com/Lethabo366/Hangman-Game.git
+cd Hangman-Game
 
- * git clone https://github.com/Lethabo366/Hangman-Game.git
- * cd Hangman-Game
+### 2. Install Dependencies
+ Use the npm install command prompt to install Node.js
+npm install
 
+### 3. Start Development Server
+npm start
 
-### Step Two
- Use the npm install command prompt to install node.js
+##Tech Stack
 
- * npm install
+-React
+-JavaScript 
+-HTML
+-CSS
+-Node.js / npm
 
-### Step three
-Start the the development
+##Future Improvements
 
-* npm start
+-Improve UI/UX
+-Add
+
  
 
