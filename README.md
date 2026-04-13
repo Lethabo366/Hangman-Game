@@ -2,6 +2,17 @@
 
 A Hangman game built with React as part of a full-stack web development capstone project.
 
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+  - [Clone Repository](#1-clone-repository)
+  - [Install Dependencies](#2-install-dependencies)
+  - [Start Development Server](#3-start-development-server)
+- [Tech Stack](#tech-stack)
+- [Future Improvements](#future-improvements)
+- [Screenshots](#screenshots)
+
 ## Features
 - Guess the word one letter at a time
 - 10 attempts before losing
@@ -35,6 +46,9 @@ npm start
 
 - Improve UI/UX
 - Add Sound Effects
+- 
+## Screenshots
+
 
  
 
