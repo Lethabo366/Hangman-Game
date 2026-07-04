@@ -2,6 +2,9 @@
 
 A Hangman game built with React as part of a full-stack web development capstone project.
 
+## Live Deployment Link
+[Project Deployment](https://hangman-game-r9ah.onrender.com/HangmanGame)
+
 ## Table of Contents
 
 - [Features](#features)
