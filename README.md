@@ -51,6 +51,6 @@ npm start
 
 ![Project Screenshot](https://github.com/Lethabo366/Hangman-Game/blob/933273072fefbf3201d9aac5fbd5ca5aae8d5b59/Images/Screenshot%202026-07-04%20111714.png)
 
-<img src="images/Screenshot 2026-07-04 111714.png" alt="Description" width="400">
+![Project Screenshot2](https://github.com/Lethabo366/Hangman-Game/blob/a0c886baa8975b692ffd2c8ed91af19dff86a4b1/Images/Screenshot%202026-07-04%20111748.png)
  
 
