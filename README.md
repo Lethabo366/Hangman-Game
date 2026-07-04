@@ -49,7 +49,7 @@ npm start
 - 
 ## Screenshots
 
-! [Project Screenshot] (https://github.com/lethabo366/hangman-game/images/Screenshot 2026-07-04 111714.png)
+! [Project Screenshot](https://github.com/Lethabo366/Hangman-Game/blob/933273072fefbf3201d9aac5fbd5ca5aae8d5b59/Images/Screenshot%202026-07-04%20111714.png)
 
 <img src="images/Screenshot 2026-07-04 111714.png" alt="Description" width="400">
  
