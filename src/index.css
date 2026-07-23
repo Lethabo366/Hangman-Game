@@ -108,6 +108,11 @@ body {
   margin:15px;
 }
 
+.start-button:hover {
+  padding:13px;
+  font-size:53px;
+}
+
 /* rules styling  */
 .list-word {
   display:flex;
